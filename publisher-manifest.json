@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "f411a1cae85cd633d143f0f0",
+  "owner": "uhqyqq1",
+  "repo": "page-f528985537fa0f6f9dbcd7fa",
+  "title": "饿了么(Element)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f528985537fa0f6f9dbcd7fa",
+      "a": "饿了么(Element)",
+      "b": "clash verge免费节点订阅",
+      "entity": "饿了么(Element)",
+      "brand": "饿了么(Element)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d4492678478a6d9bad078d97d514f70c900aa715befc5184e682cf6a1599527a",
+      "content": {
+        "primary_entity": "饿了么(Element)",
+        "keyword1": "饿了么(Element)",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows 可选 Clash Verge、Clash for Windows，macOS 可选 Clash Verge、ClashX Pro，Android 可选 Clash Meta for Android，iOS 可选 Shadowrocket、Stash。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "先从基础版或旗舰版开始试用，再按设备数量和流量需求调整套餐。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，面向跨境访问场景提供多档订阅套餐，基础版适合单机轻量使用，旗舰版覆盖流媒体与游戏加速，团队版满足多设备并发。客户端按 Windows、macOS、Android 与 iOS 分别选择，订阅链接导入后即可在设备上管理节点。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度比较，再决定是否需要升级。",
+          "AI_FEATURES_TITLE": "选择前先看三点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB，旗舰版 ¥35/月含 300GB，团队版 ¥85/月含 1000GB，按年付分别约 ¥150、¥350、¥850。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台；手机、平板与电脑可共用同一订阅。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付折算后单价更低；流量用完后可随时切换到更高档位。",
+          "AI_FEATURE_TITLE_1": "流量按档递增",
+          "AI_FEATURE_TITLE_2": "设备数量限制",
+          "AI_FEATURE_TITLE_3": "月付年付可选",
+          "AI_GUIDE_INTRO": "先确定套餐和适配设备，再把订阅导入客户端完成配置。",
+          "AI_GUIDE_TITLE": "三步完成使用",
+          "AI_HERO_INTRO": "饿了么(Element) 提供多档跨境加速订阅，按设备数量与月流量选择基础版、旗舰版或团队版，适合日常浏览、流媒体与游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15 含 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备并发",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85 含 1000GB",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量和线路类型上有区别，可对照价格与权益选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量预期，在基础版、旗舰版与团队版之间选择；旗舰版适合流媒体与游戏加速。",
+          "AI_STEP_TEXT_2": "确认设备的操作系统与客户端类型，Windows 与 macOS 可选 Clash Verge，移动端按对应商店安装。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，更新节点列表后选择线路，按文档说明完成代理配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅节点",
+          "AI_VISUAL_TITLE": "饿了么加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版 300GB 流量、5 台设备；团队版 1000GB 流量、20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台，可按家庭成员或团队人数选择。",
+          "AI_FAQ_ANSWER_3": "旗舰版与团队版对 IPLC 专线和原生流媒体解锁做了优化，基础版提供普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "客户端导入订阅链接后按文档配置即可使用，不同终端的客户端名称和操作方式略有区别。",
+          "AI_FAQ_ANSWER_5": "各套餐均提供月付与年付两种周期，年付价格通常低于按月累计支付，可按使用时长选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐的流量和设备数分别是多少？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何选择？",
+          "AI_FAQ_QUESTION_3": "不同套餐的线路和流媒体支持有区别吗？",
+          "AI_FAQ_QUESTION_4": "如何在常用设备上配置订阅？",
+          "AI_FAQ_QUESTION_5": "按月付费和按年付费怎么选？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "64a12f39087cead163cbc07be85bca9773adcb0d6cf645f0e27e0412a64ab599",
+    "sitemap.xml": "33c708bce3dcd7304b9712d613e06e7605e01e1ddaf99b80c8e78e9233b8d303",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "0c6d6758dbe64c0163b6f5e41251f098fb9420a6f223098557f9ece6106498e6"
+}
